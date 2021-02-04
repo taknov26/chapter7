@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: grey;
+}
+
+header .heading {
+  width: auto;
+  height: 400px;
+  padding: 20px 20px;
+  background-image: url(img/mv.jpg);
+  background-position: bottom;
+  background-size: cover;
+}
+
+.box1 {
+  width: 840px;
+  margin: 50px auto;
+}
+
+.box2 {
+  width: 840px;
+  border-bottom: 1px solid gray;
+  padding-bottom: 30px;
+}
+
+.box3 {
+  width: 840px;
+  border-bottom: 1px solid gray;
+  padding: 30px 0 30px 0;
+}
